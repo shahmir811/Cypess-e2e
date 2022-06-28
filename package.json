@@ -1,0 +1,15 @@
+{
+	"name": "cypress-testing",
+	"version": "1.0.0",
+	"description": "Making project for learning and implementing Cypress for e2e testing",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "Shahmir Khan Jadoon",
+	"license": "ISC",
+	"dependencies": {
+		"cypress": "^10.2.0"
+	}
+}
